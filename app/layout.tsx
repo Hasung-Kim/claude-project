@@ -7,8 +7,8 @@ import { cn } from "@/lib/utils";
 const ibmPlexSans = IBM_Plex_Sans({subsets:['latin'],variable:'--font-sans'});
 
 export const metadata: Metadata = {
-  title: "Kanban Todo",
-  description: "Kanban board application",
+  title: "feedme",
+  description: "Next.js 16 · React 19 기반 스펙 주도(Spec-Driven) 개발 워크플로우 템플릿",
 };
 
 export default function RootLayout({
