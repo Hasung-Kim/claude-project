@@ -1,6 +1,15 @@
 # Harness Engineering Template
 
-Next.js 16 + React 19 프로젝트 템플릿
+Claude Code 기반 스펙 주도 개발을 위한 Next.js 풀스택 프로젝트 템플릿입니다. Ideate → Specify → Sketch → Plan → Build → Compound 워크플로우를 따르며, AI 어시스턴트와 협업하는 모든 단계에 품질 게이트와 자동화된 훅을 갖추고 있습니다.
+
+## 프로젝트 개요
+
+| 항목 | 내용 |
+|---|---|
+| **목적** | Claude Code + Spec-Driven Development 학습 및 프로젝트 시작점 |
+| **워크플로우** | Ideate → Specify → Sketch → Plan → Build → Compound |
+| **품질 게이트** | Lint auto-fix, Vitest, Playwright E2E |
+| **AI 협업** | Claude Code hooks, skills, worktree 기반 병렬 개발 |
 
 ## 기술 스택
 
